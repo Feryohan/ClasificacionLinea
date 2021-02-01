@@ -1,0 +1,17 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\ClasificacionLinea.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\ClasificacionLinea.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\ClasificacionLinea.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\FuncionesEstadistica.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\SpreadsheetLight.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\FuncionesEstadistica.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\bin\Debug\SpreadsheetLight.xml
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.Form1.resources
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.Properties.Resources.resources
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.csproj.GenerateResource.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.csproj.CopyComplete
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ClasificacionLinea\obj\Debug\ClasificacionLinea.FormGraficaError.resources

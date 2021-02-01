@@ -1,0 +1,11 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\bin\Debug\ZonaDePruebas.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\bin\Debug\ZonaDePruebas.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\bin\Debug\ZonaDePruebas.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\bin\Debug\SpreadsheetLight.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\bin\Debug\SpreadsheetLight.xml
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\obj\Debug\ZonaDePruebas.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\obj\Debug\ZonaDePruebas.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\obj\Debug\ZonaDePruebas.csproj.CopyComplete
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\obj\Debug\ZonaDePruebas.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\ClasificacionLinea\ZonaDePruebas\obj\Debug\ZonaDePruebas.pdb

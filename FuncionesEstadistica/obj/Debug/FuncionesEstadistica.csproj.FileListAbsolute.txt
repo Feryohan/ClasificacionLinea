@@ -1,0 +1,6 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\bin\Debug\FuncionesEstadistica.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\bin\Debug\FuncionesEstadistica.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\obj\Debug\FuncionesEstadistica.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\obj\Debug\FuncionesEstadistica.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\obj\Debug\FuncionesEstadistica.dll
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Lanzamientos Espaciales Exitosos\FuncionesEstadistica\obj\Debug\FuncionesEstadistica.pdb
